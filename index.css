@@ -27,10 +27,17 @@
     background: white;
     border: 1px solid gray;
     border-radius: 5px;
+    
+  }
+
+  button:hover {
+    cursor: pointer;
   }
   
   main {
     padding: 50px;
     transition: all 200ms;
   }
+
+
   
